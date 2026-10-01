@@ -16,3 +16,6 @@ Funcionalidades Implementadas
    - Sistema de detecção de distância (radar) para evitar engavetamentos na fila do semáforo.
    - Capacidade dos veículos de seguir em linha reta ou realizar curvas organicamente no cruzamento.
 - Feedback Visual: Interface gráfica construída do zero renderizada a ~60 FPS, com semáforos visuais sincronizados com o comportamento das Threads dos carros.
+
+- Programa utilizado: Eclipse
+- 
